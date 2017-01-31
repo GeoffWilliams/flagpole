@@ -38,13 +38,13 @@ include flagpole
 ```
 
 Alternatively, you could add `flagpole` to the classes tab for a given group using the Node Classifer.
-![Node Classifier](image/classifier.png)
+![Node Classifier](https://github.com/GeoffWilliams/flagpole/raw/master/image/classifier.png)
 
 You can then see if a node will be classified to include `flagpole` on its next run by looking at a given node's `classes` tab:
-![Classification](image/classification.png)
+![Classification](https://raw.githubusercontent.com/GeoffWilliams/flagpole/master/image/classification.png)
 
 Finally, after puppet has run, you can check the value of the `flagpole` fact for the node your interested in.  You should see a timestamp within 30 minutes of the current time which indicates that the class was active recently:
-![Inventory](image/inventory.png)
+![Inventory](https://github.com/GeoffWilliams/flagpole/raw/master/image/inventory.png)
 
 
 ## Reference

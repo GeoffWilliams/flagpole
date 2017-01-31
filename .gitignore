@@ -3,4 +3,5 @@ Gemfile.lock
 .librarian
 .tmp
 Puppetfile.lock
-
+/pkg
+.DS_Store
