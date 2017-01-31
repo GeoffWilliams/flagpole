@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/GeoffWilliams/flagpole.svg?branch=master)](https://travis-ci.org/GeoffWilliams/flagpole)
+
 # flagpole
 
 #### Table of Contents
