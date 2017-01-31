@@ -1,6 +1,6 @@
 {
   "name": "geoffwilliams-flagpole",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": "geoffwilliams",
   "summary": "This is a simple module to verify that puppet is correctly managing a resource on a given host: \"Hoist it up the flagpole and see who salutes\"",
   "license": "Apache-2.0",
@@ -12,4 +12,3 @@
   ],
   "data_provider": null
 }
-
