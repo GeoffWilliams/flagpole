@@ -47,7 +47,7 @@ class flagpole {
     owner   => "root",
     group   => "root",
     mode    => "0644",
-    content => strftime("%Y-%m-%dT%k:%M:%S")
+    content => strftime("%Y-%m-%dT%H:%M:%S")
   }
 
 }
